@@ -39,6 +39,6 @@ Flutter -version 3.7.5
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | Allen Y| [GitHub](https://github.com/Alleny244) | 
   |      Alvin Antony  K | [Github](https://github.com/xenon-19) |
-  |    Ardra T S   | [GitHub](https://github.com/ankit-4129) | 
+  |    Ardra T S   | [GitHub](https://github.com/Ardra-kochuzz) | 
   |     Krishnapriya V P  | [Github](https://github.com/9895krishna) | 
   
