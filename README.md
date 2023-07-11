@@ -37,8 +37,8 @@ Flutter -version 3.7.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Allen Y| [GitHub](https://github.com/Viral-Doshi) | 
+  | Allen Y| [GitHub](https://github.com/Alleny244) | 
   |      Alvin Antony  K | [Github](https://github.com/xenon-19) |
   |    Ardra T S   | [GitHub](https://github.com/ankit-4129) | 
-  |     Krishnapriya V P  | [Github](https://github.com/parth-12) | 
+  |     Krishnapriya V P  | [Github](https://github.com/9895krishna) | 
   
