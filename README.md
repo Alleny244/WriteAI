@@ -28,8 +28,8 @@ Flutter -version 3.7.5
 
   
   ### File Structure
-  Code for Flutter Application : ### FlutterApp  
-  Code for HTR Model : ### HTR_Model
+  Code for Flutter Application : **FlutterApp**  
+  Code for HTR Model : **HTR_Model**
   
 
 
